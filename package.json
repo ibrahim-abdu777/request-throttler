@@ -1,0 +1,8 @@
+{
+  "name": "request-throttler",
+  "version": "1.0.1",
+  "description": "Token-bucket request throttler for small Node services",
+  "main": "src/throttle.js",
+  "scripts": { "test": "node --test test/throttle.test.js" },
+  "license": "MIT"
+}
